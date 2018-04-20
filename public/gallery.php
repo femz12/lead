@@ -121,9 +121,8 @@
                     </div>
 
                     <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
-                        <ul>   
-                            
-                            <li class="cbp-item effect effects identity logo">
+                        <ul id="app">
+                            <li  v-for="n in 70" class="cbp-item effect effects identity logo">
                                 <div class="img">
                                     <img src="img/portfolio/1.jpg" class="img-responsive" alt="" />
                                     <div class="overlay">
@@ -131,298 +130,10 @@
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
                                             <li class="cbp-l-icon"><a href="img/portfolio/fullsize/1.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li> 
-                            
-                            <li class="cbp-item effect effects identity logo">
-                                <div class="img">
-                                    <img src="img/portfolio/2.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/2.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                          
                                         </ul>
                                     </div>
                                 </div>
                             </li>
-                            
-                            <li class="cbp-item effect effects web-design">
-                                <div class="img">
-                                    <img src="img/portfolio/3.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/3.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                            
-                            <li class="cbp-item effect effects motion identity">
-                                <div class="img">
-                                    <img src="img/portfolio/4.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                             <li class="cbp-l-icon"><a href="img/portfolio/fullsize/4.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                          
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                            
-                            <li class="cbp-item effect effects identity">
-                                <div class="img">
-                                    <img src="img/portfolio/5.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/5.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                           
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                            
-                            <li class="cbp-item effect effects motion logo">
-                                <div class="img">
-                                    <img src="img/portfolio/6.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                             <li class="cbp-l-icon"><a href="img/portfolio/fullsize/6.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"></i></a></li>
-                                           
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                            
-                            <li class="cbp-item effect effects web-design">
-                                <div class="img">
-                                    <img src="img/portfolio/7.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/7.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                            
-                            <li class="cbp-item effect effects web-design">
-                                <div class="img">
-                                    <img src="img/portfolio/8.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/8.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                            
-                            <li class="cbp-item effect effects identity motion">
-                                <div class="img">
-                                    <img src="img/portfolio/9.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                             <li class="cbp-l-icon"><a href="img/portfolio/fullsize/9.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li> 
-                            
-                            <li class="cbp-item effect effects web-design graphic">
-                                <div class="img">
-                                    <img src="img/portfolio/10.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/10.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                            
-                            <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/11.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/11.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                            
-                            <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/12.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/12.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li> 
-
-                            <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/13.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/13.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-
-                            <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/14.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/14.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li> 
-
-                            <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/15.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/15.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-
-                            <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/16.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/16.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-
-                            <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/17.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/17.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-
-                            <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/18.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/18.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li> 
-
-                             <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/19.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/19.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li> 
-
-                             <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/20.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/20.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li> 
-
-                             <li class="cbp-item effect effects graphic logo">
-                                <div class="img">
-                                    <img src="img/portfolio/21.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/21.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                            
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li> 
-
-                            
-
-
-
-
-                            
                         </ul>
                     </div>
                     
@@ -531,7 +242,12 @@
         <script src="js/plugins/gmap3.min.js"></script>
         <script src="js/plugins/wow.min.js"></script>
         <script src="js/plugins/counterup.min.js"></script> 
-        <script src="js/scripts.js"></script>  
-        
+        <script src="js/scripts.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script>
+        new Vue({
+            el: '#app'
+        });
+    </script>
     </body>
 </html>
