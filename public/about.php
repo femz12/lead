@@ -5,17 +5,14 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>LEAD Project | 2018</title>
+        <title>About Us - LEAD Project | 2018</title>
         <meta name="description" content="A Lead project by bullion"/>
-        <meta name="keywords" content="HTML5, Bootstrap 3, CSS3, javascript, PHP, onepage, responsive, mobile"/>
+        <meta name="keywords" content="About LEAD, "/>
         <meta name="author" content="Bullion Projects"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
         <!-- Faviconss -->
         <link rel="shortcut icon" href="images/favicon-16x16.png">
-        <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
         
         <!-- Stlylesheet -->
         <link href="css/style.css" rel="stylesheet" type="text/css" />
@@ -28,8 +25,8 @@
         
         <!-- Start Preloader -->
         <div id="preloader">
-            <div class="loader">  
-                <img src="img/assets/cbp-loading-popup.gif" alt="LEAD Project">
+            <div class="loader">
+                <img src="img/assets/spinner.gif" alt="LEAD Project">
             </div>
         </div>
         <!-- End Preloader -->
@@ -46,10 +43,10 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					    </button>
-                        <a class="navbar-brand to-top" rel="home" href="index.html">
-                            <img src="img/assets/lead-logo.png" alt="LEAD Project" class="logo-big">
-                        	<!--<img src="img/assets/logo-white.png" alt="" class="logo-big">
-                            <img src="img/assets/logo-dark.png" alt="" class="logo-small">-->
+                        <a class="navbar-brand to-top" rel="home" href="index.php">
+                            <!--<img src="img/assets/lead-logo.png" alt="LEAD Project" class="logo-big">
+                        	<img src="img/assets/logo-white.png" alt="" class="logo-big">-->
+                            <img src="img/assets/lead-logo-black.png" alt="LEAD Project" class="logo-small">
                         </a>
 					</div>
 
@@ -57,9 +54,9 @@
                     <div class="collapse navbar-collapse" id="main-nav">
                         <ul class="nav navbar-nav  navbar-right">
                             
-                            <li class="to-section"><a href="index.html">Home</a></li>
-                            <li class="to-section"><a href="about.html">About Us</a></li>
-                            <li class="to-section"><a href="index.html">Speakers</a></li>
+                            <li class="to-section"><a href="/">Home</a></li>
+                            <li class="to-section"><a href="#">About Us</a></li>
+                            <li class="to-section"><a href="index.php#speakers">Speakers</a></li>
                             <li class="to-section"><a href="gallery.php">Gallery</a></li>
                             
                             <!--<li class="dropdown">
@@ -78,8 +75,8 @@
                                     
                                 </ul>
                             </li> -->
-                            
-                            <li class="to-section"><a href="index.php">Contact Us</a></li>
+                            <li class="to-section"><a href="vote.php">Vote</a></li>
+                            <li class="to-section"><a href="index.php#contact">Contact Us</a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-social-twitter"></i></a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-social-facebook"></i></a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-support"></i></a></li>
@@ -93,7 +90,7 @@
         <section id="page-top" style="height:400px">
         <div class="hero">
         
-            <img src="img/backgrounds/bg-shortcodes.jpg" alt="hero">
+            <img src="img/abt-banner.jpg" alt="hero">
 
             <div class="page-top-title text-center">
                 <h2 class="white op-1">ABOUT LEAD PROJECT</h2>

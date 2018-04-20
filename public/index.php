@@ -7,18 +7,15 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>LEAD Project | 2018</title>
         <meta name="description" content="A Lead project by bullion"/>
-        <meta name="keywords" content="HTML5, Bootstrap 3, CSS3, javascript, PHP, onepage, responsive, mobile"/>
+        <meta name="keywords" content="Bullion, Lead Project, event"/>
         <meta name="author" content="Bullion Projects"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
         <!-- Faviconss -->
         <link rel="shortcut icon" href="images/favicon-16x16.png">
-        <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
         <!-- Stlylesheet -->
-        <link href="css/style.css" rel="stylesheet" type="text/css" />
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
 
         <!-- Skin Color -->
         <link rel="stylesheet" href="css/colors/red.css" id="color-skins"/>
@@ -59,7 +56,7 @@
 
                             <li><a class="to-top">Home</a></li>
                             <li class="to-section"><a href="#about">About Us</a></li>
-                            <li class="to-section"><a href="#team">Speakers</a></li>
+                            <li class="to-section"><a href="#speakers">Speakers</a></li>
                             <li class="to-section"><a href="#portfolio">Gallery</a></li>
 
                             <!--<li class="dropdown">
@@ -78,7 +75,7 @@
 
                                 </ul>
                             </li> -->
-
+                            <li class="to-section"><a href="vote.php">Vote</a></li>
                             <li class="to-section"><a href="#contact">Contact Us</a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-social-twitter"></i></a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-social-facebook"></i></a></li>
@@ -311,7 +308,7 @@
                                         data-endelementdelay="0.1"
                                         data-endspeed="300"
                                         style="z-index: 4; max-width: auto; max-height: auto; white-space:normal;">
-                                        <div class="op-3"><a href="#team" class="btn btn-primary btn-scroll">Participate</a></div>
+                                        <div class="op-3"><a href="#get-connected" class="btn btn-primary btn-scroll">Participate</a></div>
                                     </div>
 
                             </li>
@@ -384,7 +381,7 @@
                                      data-endelementdelay="0.1"
                                      data-endspeed="300"
                                      style="z-index: 4; max-width: auto; max-height: auto; white-space:normal;">
-                                    <div class="op-3"><a href="#team" class="btn btn-primary btn-scroll">Participate</a></div>
+                                    <div class="op-3"><a href="#get-connected" class="btn btn-primary btn-scroll">Participate</a></div>
                                 </div>
 
                             </li>
@@ -457,7 +454,7 @@
                                      data-endelementdelay="0.1"
                                      data-endspeed="300"
                                      style="z-index: 4; max-width: auto; max-height: auto; white-space:normal;">
-                                    <div class="op-3"><a href="#team" class="btn btn-primary btn-scroll">Participate</a></div>
+                                    <div class="op-3"><a href="#get-connected" class="btn btn-primary btn-scroll">Participate</a></div>
                                 </div>
 
                             </li>
@@ -606,7 +603,7 @@
                             <p class="grey wow fadeInUp">The LEAD PROJECT Africa™ is a prestigious event designed to ignite the spirit of enterprise, innovation, creativity
                                 and service excellence. And also stimulating economic growth in Nigeria and Africa as a whole.</p>
 				            <p class="grey wow fadeInUp">To commemorate the 10th LEAD Annual Lecture & Award, the International Organizing Committee presents the 10th ‘BIG’ INNOVATION FESTIVAL</p>
-                            <a href="about.html" class="btn btn-primary btn-xs">Read More</a>
+                            <a href="about.php" class="btn btn-primary btn-xs">Read More</a>
 
 
 
@@ -624,8 +621,8 @@
             </section>
         	<!-- End About Section -->
 
-            <!-- Start Team Section -->
-            <section id="team">
+            <!-- Start Speakers Section -->
+            <section id="speakers">
                 <div class="container">
 
                     <div class="col-md-12 text-center wow fadeInUp">
@@ -753,7 +750,7 @@
                     </div>
                 </div>
             </section>
-            <!-- End Team Section -->
+            <!-- End Speaker Section -->
 
             <!-- Start Skills Section -->
             <section id="skills" class="parallax-section-2">
@@ -1074,7 +1071,7 @@
                     </div>
 
                     <div class="cbp-l-loadMore-button">
-                        <a href="gallery.html" class="btn btn-default">Show More</a>
+                        <a href="gallery.php" class="btn btn-default">Show More</a>
                          <!--<a href="projects/loadMore.html" class="cbp-l-loadMore-button-link wow fadeInUp">SHOW ME MORE</a>-->
                         <!-- Portfolio AJAX load more button will be functional only on your server. Upload to your server when testing. -->
                     </div>
