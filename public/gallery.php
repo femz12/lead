@@ -24,15 +24,15 @@
         <link rel="stylesheet" href="css/colors/red.css" id="color-skins"/> 
         
     </head>
-    <body> 
-        
-        <!-- Start Preloader -->
-        <div id="preloader">
-            <div class="loader">  
-                <img src="img/assets/cbp-loading-popup.gif" alt="LEAD Project">
-            </div>
+    <body>
+
+    <!-- Start Preloader -->
+    <div id="preloader">
+        <div class="loader">
+            <img src="img/assets/spinner.gif" alt="LEAD Project">
         </div>
-        <!-- End Preloader -->
+    </div>
+    <!-- End Preloader -->
         
         <!-- Start Header -->
         <header>
@@ -47,15 +47,15 @@
                         <span class="icon-bar"></span>
                         </button>
                         <a class="navbar-brand to-top" rel="home" href="#">
-                            <img src="img/assets/lead-logo.png" alt="LEAD Project" class="logo-big">
-                            <!--<img src="img/assets/logo-white.png" alt="" class="logo-big">
-                            <img src="img/assets/logo-dark.png" alt="" class="logo-small">-->
+                            <!--<img src="img/assets/lead-logo.png" alt="LEAD Project" class="logo-big">
+                            <img src="img/assets/logo-white.png" alt="" class="logo-big">-->
+                            <img src="img/assets/lead-logo-black.png" alt="" class="logo-small">
                         </a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse" id="main-nav">
-                        <ul class="nav navbar-nav  navbar-right">
+                    <div class="" id="main-nav">
+                        <ul class="nav navbar-nav navbar-right">
                             
                             <li><a class="to-top">Home</a></li>
                             <li class="to-section"><a href="#about">About Us</a></li>
@@ -89,18 +89,23 @@
             </nav>
         </header>
         <!-- End Header -->
-        
 
-        
-        <div class="site-wrapper content">
+    <!-- Start Page Top -->
+    <section id="page-top" style="height:350px">
+        <div class="hero">
 
-            
-            
-           
-            
-           
-            
-            
+            <img src="img/backgrounds/bg-4.jpg" alt="hero">
+
+            <div class="page-top-title text-center">
+                <h2 class="white op-1">GALLERY</h2>
+                <p class="home-subheading op-1"></p>
+            </div>
+
+        </div>
+    </section>
+    <!-- End Page Top -->
+
+    <div class="site-wrapper content">
             <!-- Start Portfolio Section -->
             <section id="portfolio" style="position: relative;"> 
                 <div class="separator"></div>

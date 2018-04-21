@@ -78,7 +78,7 @@
                             <li class="to-section"><a href="vote.php">Vote</a></li>
                             <li class="to-section"><a href="index.php#contact">Contact Us</a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-social-twitter"></i></a></li>
-                            <li><a class="social-icon" href="#"><i class="icon icon-social-facebook"></i></a></li>
+                            <li><a class="social-icon" href="https://www.facebook.com/TheLEADProjectAfrica/"><i class="icon icon-social-facebook"></i></a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-support"></i></a></li>
                       </ul>
                     </div><!-- /.navbar-collapse -->
@@ -87,10 +87,10 @@
 		</header>
 
         <!-- Start Page Top -->  
-        <section id="page-top" style="height:400px">
+        <section id="page-top" style="height:350px">
         <div class="hero">
         
-            <img src="img/abt-banner.jpg" alt="hero">
+            <img src="img/abt-banner.jpg" alt="LEAD Project">
 
             <div class="page-top-title text-center">
                 <h2 class="white op-1">ABOUT LEAD PROJECT</h2>
@@ -114,15 +114,14 @@
                             <div class="blog-post"> 
                                   
                                 <p class="lead">The LEAD PROJECT Africa™ is a prestigious event designed to ignite the spirit of enterprise, innovation, creativity and service excellence. And also stimulating economic growth in Nigeria and Africa as a whole</p>
-                                  
-                                <a href="#"><img class="img-responsive blog-img" src="img/abt.jpg" alt=""></a>
-                                <p>To commemorate the 10th LEAD Annual Lecture & Award, the International Organizing Committee presents the 10th ‘BIG’ INNOVATION FESTIVAL.<p>
 
-                                <p>The LEAD celebrates and recognizes Creativity, Innovations, brilliant ideas and enterprises in various sectors of the African economy. Among the objectives are to proffer solutions to economic challenges and business growth in Africa; and recognition of Innovators, trailblazers, and budding entrepreneurs in different sectors of the African economy that are creating values.</p>
+                                <p class="lead">To commemorate the 10th LEAD Annual Lecture & Award, the International Organizing Committee presents the 10th ‘BIG’ INNOVATION FESTIVAL.<p>
 
-                                <p>LEAD has been profiled by several media houses including ThisDay, The Guardian London, Forbes as one of the leading enterprise award of recent times.</p>
+                                <p class="lead">The LEAD celebrates and recognizes Creativity, Innovations, brilliant ideas and enterprises in various sectors of the African economy. Among the objectives are to proffer solutions to economic challenges and business growth in Africa; and recognition of Innovators, trailblazers, and budding entrepreneurs in different sectors of the African economy that are creating values.</p>
 
-                                <p>LEAD is positioned to be the Africa Version of the Nobel Prize that was founded by Alfred Nitro Nobel of Sweden. Therefore, it will unveil and celebrates Africa’s inventions and innovations.</p>                        
+                                <p class="lead">LEAD has been profiled by several media houses including ThisDay, The Guardian London, Forbes as one of the leading enterprise award of recent times.</p>
+
+                                <p class="lead">LEAD is positioned to be the Africa Version of the Nobel Prize that was founded by Alfred Nitro Nobel of Sweden. Therefore, it will unveil and celebrates Africa’s inventions and innovations.</p>
                     </div>
                 </div>
             </section>
@@ -132,44 +131,32 @@
             <footer id="footer">
                 <div class="footer-widgets">
                     <div class="container"> 
-                            <!--
-                            <div class="col-md-3 col-sm-6 col-twitter">
-                                <h4>Latest Tweet</h4>
-                                <div class="tweet"></div> 
+                            <!-- -->
+
+                            <div class="col-md-3 col-sm-6 col-footer">
+                                <h4>About Bullion</h4>
+                                <p>Bullion Projects, the official consultant is one of the West Africa’s Leaders in ideas, TV contents and media project development she consults for organisations and partners with governments on enterprise and development projects.</p>
                             </div>
-                            
+
                             <div class="col-md-3 col-sm-6 col-footer">
-                                <div class="subscription">
-                                    <h4>Newsletter</h4>
-                                    <p>Subscribe to receive new ideas, inspiration and our weekly news!</p> 
-                                    
-                                    <form action="php/subscribe-mailchimp.php" method="post" id="subscribe-form" role="form">
-                                        <div class="form-validation alert"></div>
-                                        <div class="form-group subscribe-form-input">
-                                            <input type="email" name="email" id="subscribe-form-email" class="footer-subscribe-input" placeholder="Your Email Address" autocomplete="off" />      
-                                            <button class="subscribe-form-submit btn-primary-full" data-loading-text="Loading...">Subscribe</button>
-                                        </div>
-                                    </form>
-                                    
-                                </div>
-                            </div> 
-                            
-                            <div class="col-md-3 col-sm-6 col-footer">
-                                <div class="contact">
-                                    <h4>Visit us Today!</h4>
-                                    <ul class="contact-details">
-                                        <li><p><i class="icon ion-ios-location-outline highlight"></i> 259 W 95th St, New York, United States</p></li>
-                                        <li><p><i class="icon ion-ios-telephone highlight"></i> (123) 456-7891</p></li>
-                                        <li><p><i class="icon ion-android-mail highlight"></i> <a href="vossendesign@gmail.com">vossendesign@gmail.com</a></p></li>
-                                    </ul>
-                                </div>
+                                <h4>Projects</h4>
+                                <p>She has partnered in execution of mega TV projects like the Dialogue of Leaders TV series, The NET TITAN Reality TV series and pioneered world class events like PAN African Enterpreneurship summit, Nigerian Job Forum, Lead Africa, etc.</p>
                             </div>
-                            
-                            <div class="col-md-3 col-sm-6 col-footer">
-                                <h4>About Vossen</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in euismod nisi.</p>
-                                <p>Cras at ultrices erat, sed vulputate eros. Nunc at augue gravida est fermentum vulputate. Pellentesque et ipsum in dui malesuada tempus. Donec pellentesque.</p>
-                            </div>-->
+
+                        <div class="col-md-3 col-sm-6 col-footer">
+                            <div class="contact">
+                                <h4>Visit us Today!</h4>
+                                <ul class="contact-details">
+                                    <li><p><i class="icon ion-ios-location-outline highlight"></i> 21, Ezekiel Street, Off Toyin, Ikeja</p></li>
+                                    <li><p><i class="icon ion-ios-telephone highlight"></i>+2348170475049 or 08143497350</p></li>
+                                    <li><p><i class="icon ion-android-mail highlight"></i> <a href="leadbiginnovationfestival@gmail.com">leadbiginnovationfestival@gmail.com</a></p></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 col-sm-6 col-twitter">
+                            <img src="img/assets/bullion-logo.jpg" alt="LEAD Project" class="logo-big">
+                        </div>
                              
                     </div>
                 </div><!-- End Footer Widgets -->
@@ -184,7 +171,7 @@
                             <div class="col-md-6 col-sm-12">
                                 <ul id="social-icons">
                                     <li><a href="#"><i class="icon ion-social-twitter"></i></a></li>    
-                                    <li><a href="#"><i class="icon ion-social-facebook"></i></a></li> 
+                                    <li><a href="https://www.facebook.com/TheLEADProjectAfrica/"><i class="icon ion-social-facebook"></i></a></li>
                                     <!--<li><a href="#"><i class="icon ion-social-googleplus"></i></a></li> 
                                     <li><a href="#"><i class="icon ion-social-instagram-outline"></i></a></li> 
                                     <li><a href="#"><i class="icon ion-social-pinterest"></i></a></li>  
@@ -197,16 +184,16 @@
                             </div>
                         </div>
                     </div>
-                </div><!-- End Footer Copyright -->
+                </div>
+                <!-- End Footer Copyright -->
                 
-            </footer>            <!-- End Footer 1 -->
+            </footer>
+            <!-- End Footer 1 -->
             
             <!-- Start Back To Top -->
             <a id="back-to-top"><i class="icon ion-chevron-up"></i></a>
             <!-- End Back To Top -->
-            
         </div><!-- End Site Wrapper -->
-        
         <!-- jQuery -->
         <script src="js/plugins/jquery.min.js"></script>
         <script src="js/plugins/smoothscroll.min.js"></script>
@@ -223,7 +210,6 @@
         <script src="js/plugins/gmap3.min.js"></script>
         <script src="js/plugins/wow.min.js"></script>
         <script src="js/plugins/counterup.min.js"></script> 
-        <script src="js/scripts.js"></script>  
-        
+        <script src="js/scripts.js"></script>
     </body>
 </html>

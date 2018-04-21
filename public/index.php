@@ -78,7 +78,7 @@
                             <li class="to-section"><a href="vote.php">Vote</a></li>
                             <li class="to-section"><a href="#contact">Contact Us</a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-social-twitter"></i></a></li>
-                            <li><a class="social-icon" href="#"><i class="icon icon-social-facebook"></i></a></li>
+                            <li><a class="social-icon" href="https://www.facebook.com/TheLEADProjectAfrica/"><i class="icon icon-social-facebook"></i></a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-support"></i></a></li>
                       </ul>
                     </div><!-- /.navbar-collapse -->
@@ -94,7 +94,7 @@
                     <div class="tp-banner">
                         <ul>
                             <!-- SLIDE 1 -->
-                            <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/1.jpg" data-delay="10000"  data-saveperformance="on" data-title="Lead Projects">
+                            <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/1.jpg" data-delay="5000"  data-saveperformance="on" data-title="Lead Projects">
                                 <img src="img/backgrounds/1.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                                 <!--Home Quote-->
                                 <div class="tp-caption home-quote sft "
@@ -167,7 +167,7 @@
                             </li>
 
                             <!-- SLIDE 2 -->
-                            <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/2.jpg" data-delay="10000"  data-saveperformance="on" data-title="Lead Projects">
+                            <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/2.jpg" data-delay="5000"  data-saveperformance="on" data-title="Lead Projects">
                                 <img src="img/backgrounds/2.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
                                     <!--Home Quote-->
@@ -241,7 +241,7 @@
                             </li>
 
                             <!-- SLIDE 3 -->
-                            <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/3.jpg" data-delay="10000"  data-saveperformance="on" data-title="Lead Projects">
+                            <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/3.jpg" data-delay="5000"  data-saveperformance="on" data-title="Lead Projects">
                                 <img src="img/backgrounds/3.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                                 <!--Home Quote-->
                                 <div class="tp-caption home-quote sft "
@@ -314,7 +314,7 @@
                             </li>
 
                             <!-- SLIDE 4 -->
-                            <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/4.jpg" data-delay="10000"  data-saveperformance="on" data-title="Lead Projects">
+                            <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/4.jpg" data-delay="5000"  data-saveperformance="on" data-title="Lead Projects">
                                 <img src="img/backgrounds/4.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                                 <!--Home Quote-->
                                 <div class="tp-caption home-quote sft "
@@ -387,7 +387,7 @@
                             </li>
 
                             <!-- SLIDE 5 -->
-                            <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/5.jpg" data-delay="10000"  data-saveperformance="on" data-title="Lead Projects">
+                            <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/5.jpg" data-delay="5000"  data-saveperformance="on" data-title="Lead Projects">
                                 <img src="img/backgrounds/5.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                                 <!--Home Quote-->
                                 <div class="tp-caption home-quote sft "
@@ -484,32 +484,30 @@
 
                         <div class="col-md-12 text-justify">
                             <h3 class="wow fadeInUp text-center">WHY LEAD BIG INNOVATION FESTIVAL?</h3>
-                            <p class="wow fadeInUp">
-                                Innovation is the life-wire of any great economy as exemplified by many developed economies like US, China, Singapore,
+                            <p class="lead-txt wow fadeInUp">Innovation is the life-wire of any great economy as exemplified by many developed economies like US, China, Singapore,
                                 Hong Kong, Japan etc. In the developed nations, Innovation has helped in achieving economic growth.
                                 Enterprise produces financial gain and keeps the economy afloat, which gives rise to the importance of Innovation.
-                                And entrepreneurs are the innovators of the economy.<br>
+                                And entrepreneurs are the innovators of the economy.</p>
 
-                                Africa can lead the global community in technological advancement and economic growth, however, novel Innovation
-                                is (the gap) a key strategy in achieving this.
-                                Innovation stimulates enterprises to come up with new ways to deliver products or services.
+                            <p class="lead-txt wow fadeInUp">Africa can lead the global community in technological advancement and economic growth, however, novel Innovation
+                                    is (the gap) a key strategy in achieving this.</p>
+                            <p class="lead-txt wow fadeInUp">Innovation stimulates enterprises to come up with new ways to deliver products or services.
                                 10th LEAD Big Innovation Festival provides a platform for ideas exchange, knowledge dissemination, value creation,
-                                networking, as well as exploring creativity. <br>
+                                    networking, as well as exploring creativity. </p>
 
-                                10th LEAD Big Innovation Festival offers an opportunity to look into the future, exploring the technological
+                            <p class="expand-div lead-txt wow fadeInUp">10th LEAD Big Innovation Festival offers an opportunity to look into the future, exploring the technological
                                 developments that will empower Africa to compete favourably in the 21st century. The festival will not only
                                 celebrate what we have, but also build a network that will drive innovation, development technology, enterprises,
-                                and create a Great Future for Africa.
-                                In two days, over 5,000 entrepreneurs, bright minds, young business owners, career professionals, executives of
+                                    and create a Great Future for Africa.</p>
+                            <p class="expand-div lead-txt wow fadeInUp">In two days, over 5,000 entrepreneurs, bright minds, young business owners, career professionals, executives of
                                 medium sized and large organisations will have the opportunity to meet with leading idea geniuses, thought leaders,
                                 global innovators to expand their creativity quotient, as well as explore new ideas, emerging technologies, Innovations
-                                and creative solutions that will support Africa’s long term economic advancement.
-                                The festival will feature 25 Influential Speakers, Panellists from key sectors of the economy – ICT, Telecoms, Fintech,
-                                Media, E-commerce Banking & Finance and more, for a two days of ideation.
-                                Sessions will highlight the latest trends, opportunities for growth of the knowledge economy, the role that Governments
-                                play in innovation etc.
-
-                                </p>
+                                    and creative solutions that will support Africa’s long term economic advancement.</p>
+                            <p class="expand-div lead-txt wow fadeInUp">The festival will feature 25 Influential Speakers, Panellists from key sectors of the economy – ICT, Telecoms, Fintech,
+                                    Media, E-commerce Banking & Finance and more, for a two days of ideation.</p>
+                            <p class="expand-div lead-txt wow fadeInUp">Sessions will highlight the latest trends, opportunities for growth of the knowledge economy, the role that Governments
+                                    play in innovation etc.</p>
+                            <a id="expand-div-button" class="btn btn-default">Read More</a>
                             <!--<a href="#contact" class="btn btn-primary btn-scroll">Get in Touch</a>-->
                         </div>
 
@@ -1071,7 +1069,7 @@
                     </div>
 
                     <div class="cbp-l-loadMore-button">
-                        <a href="gallery.php" class="btn btn-default">Show More</a>
+                        <a href="gallery.php" class="btn btn-default">Show All</a>
                          <!--<a href="projects/loadMore.html" class="cbp-l-loadMore-button-link wow fadeInUp">SHOW ME MORE</a>-->
                         <!-- Portfolio AJAX load more button will be functional only on your server. Upload to your server when testing. -->
                     </div>
@@ -1633,7 +1631,7 @@
 							<div class="col-md-6 col-sm-12">
 				                <ul id="social-icons">
 						            <li><a href="#"><i class="icon ion-social-twitter"></i></a></li>
-                                    <li><a href="#"><i class="icon ion-social-facebook"></i></a></li>
+                                    <li><a href="https://www.facebook.com/TheLEADProjectAfrica/"><i class="icon ion-social-facebook"></i></a></li>
                                     <!--<li><a href="#"><i class="icon ion-social-googleplus"></i></a></li>
                                     <li><a href="#"><i class="icon ion-social-instagram-outline"></i></a></li>
                                     <li><a href="#"><i class="icon ion-social-pinterest"></i></a></li>
@@ -1674,6 +1672,16 @@
         <script src="js/plugins/wow.min.js"></script>
         <script src="js/plugins/counterup.min.js"></script>
 		<script src="js/scripts.js"></script>
+        <script>
+            $(document).ready(function(){
+                $("#expand-div-button").click(function(){
+                    $(".expand-div").toggle();
+                    var txt = $(".expand-div").is(':visible') ? 'Read Less' : 'Read More';
+                    $("#expand-div-button").text(txt);
+                })
+            })
+        </script>
+
 
 	</body>
 </html>
