@@ -904,7 +904,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/1.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/1.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -918,7 +918,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/2.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/2.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -932,7 +932,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/3.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/3.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -946,7 +946,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                             <li class="cbp-l-icon"><a href="img/portfolio/fullsize/4.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                             <li class="cbp-l-icon"><a href="img/portfolio/fullsize/4.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -960,7 +960,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/5.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/5.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -974,7 +974,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                             <li class="cbp-l-icon"><a href="img/portfolio/fullsize/6.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"></i></a></li>
+                                             <li class="cbp-l-icon"><a href="img/portfolio/fullsize/6.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -988,7 +988,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/7.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/7.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -1002,7 +1002,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/8.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/8.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -1016,7 +1016,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                             <li class="cbp-l-icon"><a href="img/portfolio/fullsize/9.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                             <li class="cbp-l-icon"><a href="img/portfolio/fullsize/9.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -1030,7 +1030,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/10.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/10.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -1044,7 +1044,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/11.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/11.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>
@@ -1058,7 +1058,7 @@
                                         <ul class="expand">
                                             <li class="cbp-l-caption-title"></li>
                                             <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/12.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
+                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/12.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
 
                                         </ul>
                                     </div>

@@ -54,36 +54,36 @@
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="" id="main-nav">
-                        <ul class="nav navbar-nav navbar-right">
-                            
-                            <li><a class="to-top">Home</a></li>
-                            <li class="to-section"><a href="#about">About Us</a></li>
-                            <li class="to-section"><a href="#team">Speakers</a></li>
-                            <li class="to-section"><a href="#portfolio">Gallery</a></li>
-                            
+                    <div class="collapse navbar-collapse" id="main-nav">
+                        <ul class="nav navbar-nav  navbar-right">
+
+                            <li class="to-section"><a href="/">Home</a></li>
+                            <li class="to-section"><a href="about.php">About Us</a></li>
+                            <li class="to-section"><a href="index.php#speakers">Speakers</a></li>
+                            <li class="to-section"><a href="#">Gallery</a></li>
+
                             <!--<li class="dropdown">
                                 <span class="dropdown-toggle" data-toggle="dropdown">Pages <b class="caret"></b></span>
                                 <ul class="dropdown-menu" role="menu">
                                     <li class="active"><a href="#">Something Here</a></li>
-                                    
+
                                 </ul>
-                            </li> 
-                            
+                            </li>
+
                             <li class="dropdown">
                                 <span class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></span>
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="#">Something Here</a></li>
-                                    <li><a href="#">Something Here</a></li>   
-                                    
+                                    <li><a href="#">Something Here</a></li>
+
                                 </ul>
                             </li> -->
-                            
-                            <li class="to-section"><a href="#contact">Contact Us</a></li>
+                            <li class="to-section"><a href="vote.php">Vote</a></li>
+                            <li class="to-section"><a href="index.php#contact">Contact Us</a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-social-twitter"></i></a></li>
-                            <li><a class="social-icon" href="#"><i class="icon icon-social-facebook"></i></a></li>
+                            <li><a class="social-icon" href="https://www.facebook.com/TheLEADProjectAfrica/"><i class="icon icon-social-facebook"></i></a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-support"></i></a></li>
-                      </ul>
+                        </ul>
                     </div><!-- /.navbar-collapse -->
                 </div><!-- /.container -->
             </nav>
@@ -106,52 +106,270 @@
     <!-- End Page Top -->
 
     <div class="site-wrapper content">
-            <!-- Start Portfolio Section -->
-            <section id="portfolio" style="position: relative;"> 
-                <div class="separator"></div>
-                <div class="container">
-                    
-                    <div class="col-md-12 text-center">
-                        <h3 class="section-title wow fadeInUp">Greatest Works.</h3> 
-                        <p class="subheading wow fadeInUp">Creating products and services that <span class="highlight">transform brands</span>.</p>
-                    </div>
+        <!-- Start Portfolio Section -->
+        <section id="portfolio" style="position: relative;">
+            <div class="separator"></div>
+            <div class="container">
 
-                    <div id="filters-container-fullwidth" class="cbp-l-filters-alignCenter wow fadeInUp">
-                        <div data-filter="*" class="cbp-filter-item-active cbp-filter-item"><div class="cbp-filter-counter"></div></div>
-                       <!-- <div data-filter=".identity" class="cbp-filter-item">Identity<div class="cbp-filter-counter"></div></div>
-                        <div data-filter=".web-design" class="cbp-filter-item">Web Design<div class="cbp-filter-counter"></div></div>
-                        <div data-filter=".graphic" class="cbp-filter-item">Graphic<div class="cbp-filter-counter"></div></div>
-                        <div data-filter=".logo" class="cbp-filter-item">Logo<div class="cbp-filter-counter"></div></div>
-                        <div data-filter=".motion" class="cbp-filter-item">Motion<div class="cbp-filter-counter"></div></div>-->
-                    </div>
-
-                    <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
-                        <ul id="app">
-                            <li  v-for="n in 70" class="cbp-item effect effects identity logo">
-                                <div class="img">
-                                    <img src="img/portfolio/1.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="cbp-l-caption-title"></li>
-                                            <li class="cbp-l-caption-desc"></li>
-                                            <li class="cbp-l-icon"><a href="img/portfolio/fullsize/1.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Wunderwelt"><i class="icon-magnifier"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    
-                   
-                    
+                <div class="col-md-12 text-center">
+                    <h3 class="section-title wow fadeInUp">Greatest Works.</h3>
+                    <p class="subheading wow fadeInUp">Creating products and services that <span class="highlight">transform brands</span>.</p>
                 </div>
-            </section>
-            <!-- End Portfolio Section -->            
-            
-            
-            
-            
-            <!-- Start Footer 1 -->
+
+                <div id="filters-container-fullwidth" class="cbp-l-filters-alignCenter wow fadeInUp">
+                    <div data-filter="*" class="cbp-filter-item-active cbp-filter-item"><div class="cbp-filter-counter"></div></div>
+                    <!-- <div data-filter=".identity" class="cbp-filter-item">Identity<div class="cbp-filter-counter"></div></div>
+                     <div data-filter=".web-design" class="cbp-filter-item">Web Design<div class="cbp-filter-counter"></div></div>
+                     <div data-filter=".graphic" class="cbp-filter-item">Graphic<div class="cbp-filter-counter"></div></div>
+                     <div data-filter=".logo" class="cbp-filter-item">Logo<div class="cbp-filter-counter"></div></div>
+                     <div data-filter=".motion" class="cbp-filter-item">Motion<div class="cbp-filter-counter"></div></div>-->
+                </div>
+                <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
+                    <ul>
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/1.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/1.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
+                    <ul>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/1.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/1.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/2.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/2.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/3.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/3.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion identity">
+                            <div class="img">
+                                <img src="img/portfolio/4.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/4.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity">
+                            <div class="img">
+                                <img src="img/portfolio/5.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/5.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion logo">
+                            <div class="img">
+                                <img src="img/portfolio/6.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/6.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/7.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/7.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/8.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/8.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity motion">
+                            <div class="img">
+                                <img src="img/portfolio/9.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/9.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design graphic">
+                            <div class="img">
+                                <img src="img/portfolio/10.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/10.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/11.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/11.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/12.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/12.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+                <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
+                    <ul>
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/3.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/3.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
+                    <ul>
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/4.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/4.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
+                    <ul>
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/5.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/5.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </section>
+        <!-- End Portfolio Section -->
+
+
+
+
+        <!-- Start Footer 1 -->
             <footer id="footer">
                 <div class="footer-widgets">
                     <div class="container"> 
@@ -248,11 +466,5 @@
         <script src="js/plugins/wow.min.js"></script>
         <script src="js/plugins/counterup.min.js"></script> 
         <script src="js/scripts.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script>
-        new Vue({
-            el: '#app'
-        });
-    </script>
     </body>
 </html>
