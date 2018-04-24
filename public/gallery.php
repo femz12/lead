@@ -799,6 +799,1266 @@
                             </div>
                         </li>
 
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/49.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/49.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/50.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/50.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/51.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/51.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion identity">
+                            <div class="img">
+                                <img src="img/portfolio/52.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/52.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity">
+                            <div class="img">
+                                <img src="img/portfolio/53.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/53.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion logo">
+                            <div class="img">
+                                <img src="img/portfolio/54.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/54.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/55.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/55.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/56.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/56.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity motion">
+                            <div class="img">
+                                <img src="img/portfolio/57.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/57.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design graphic">
+                            <div class="img">
+                                <img src="img/portfolio/58.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/58.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/59.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/59.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/60.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/60.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/61.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/61.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/62.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/62.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/63.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/63.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion identity">
+                            <div class="img">
+                                <img src="img/portfolio/64.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/64.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity">
+                            <div class="img">
+                                <img src="img/portfolio/65.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/65.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion logo">
+                            <div class="img">
+                                <img src="img/portfolio/66.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/66.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/67.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/67.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/68.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/68.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity motion">
+                            <div class="img">
+                                <img src="img/portfolio/69.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/69.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design graphic">
+                            <div class="img">
+                                <img src="img/portfolio/70.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/70.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/71.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/71.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/72.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/72.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/73.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/73.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/74.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/74.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/75.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/75.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion identity">
+                            <div class="img">
+                                <img src="img/portfolio/76.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/76.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity">
+                            <div class="img">
+                                <img src="img/portfolio/77.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/77.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion logo">
+                            <div class="img">
+                                <img src="img/portfolio/78.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/78.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/79.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/79.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/80.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/80.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity motion">
+                            <div class="img">
+                                <img src="img/portfolio/81.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/81.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design graphic">
+                            <div class="img">
+                                <img src="img/portfolio/82.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/82.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/83.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/83.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/84.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/84.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/85.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/85.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/86.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/86.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/87.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/87.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion identity">
+                            <div class="img">
+                                <img src="img/portfolio/88.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/88.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity">
+                            <div class="img">
+                                <img src="img/portfolio/89.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/89.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion logo">
+                            <div class="img">
+                                <img src="img/portfolio/90.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/90.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/91.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/91.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/92.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/92.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity motion">
+                            <div class="img">
+                                <img src="img/portfolio/93.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/93.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design graphic">
+                            <div class="img">
+                                <img src="img/portfolio/94.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/94.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/95.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/95.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/96.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/96.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/97.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/97.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/98.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/98.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/99.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/99.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion identity">
+                            <div class="img">
+                                <img src="img/portfolio/100.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/100.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity">
+                            <div class="img">
+                                <img src="img/portfolio/101.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/101.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion logo">
+                            <div class="img">
+                                <img src="img/portfolio/102.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/102.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/103.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/103.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/104.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/104.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity motion">
+                            <div class="img">
+                                <img src="img/portfolio/105.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/105.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design graphic">
+                            <div class="img">
+                                <img src="img/portfolio/106.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/106.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/107.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/107.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/108.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/108.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/109.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/109.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/110.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/110.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/111.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/111.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion identity">
+                            <div class="img">
+                                <img src="img/portfolio/112.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/112.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity">
+                            <div class="img">
+                                <img src="img/portfolio/113.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/113.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion logo">
+                            <div class="img">
+                                <img src="img/portfolio/114.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/114.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/115.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/115.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/116.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/116.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity motion">
+                            <div class="img">
+                                <img src="img/portfolio/117.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/117.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/118.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/118.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/119.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/119.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/120.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/120.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/121.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/121.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/122.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/122.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion identity">
+                            <div class="img">
+                                <img src="img/portfolio/123.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/123.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity">
+                            <div class="img">
+                                <img src="img/portfolio/124.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/124.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion logo">
+                            <div class="img">
+                                <img src="img/portfolio/125.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/125.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/126.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/126.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/127.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/127.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity motion">
+                            <div class="img">
+                                <img src="img/portfolio/128.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/128.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design graphic">
+                            <div class="img">
+                                <img src="img/portfolio/129.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/129.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/130.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/130.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects graphic logo">
+                            <div class="img">
+                                <img src="img/portfolio/131.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/131.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/132.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/132.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity logo">
+                            <div class="img">
+                                <img src="img/portfolio/133.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/133.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects web-design">
+                            <div class="img">
+                                <img src="img/portfolio/134.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/134.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion identity">
+                            <div class="img">
+                                <img src="img/portfolio/135.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/135.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects identity">
+                            <div class="img">
+                                <img src="img/portfolio/136.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/136.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion logo">
+                            <div class="img">
+                                <img src="img/portfolio/137.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/137.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="cbp-item effect effects motion logo">
+                            <div class="img">
+                                <img src="img/portfolio/138.jpg" class="img-responsive" alt="" />
+                                <div class="overlay">
+                                    <ul class="expand">
+                                        <li class="cbp-l-caption-title"></li>
+                                        <li class="cbp-l-caption-desc"></li>
+                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/138.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+
                     </ul>
                 </div>
             </div>
