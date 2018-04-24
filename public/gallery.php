@@ -126,22 +126,6 @@
                 </div>
                 <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
                     <ul>
-                        <li class="cbp-item effect effects identity logo">
-                            <div class="img">
-                                <img src="img/portfolio/1.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-caption-title"></li>
-                                        <li class="cbp-l-caption-desc"></li>
-                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/1.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
-                    <ul>
 
                         <li class="cbp-item effect effects identity logo">
                             <div class="img">
@@ -313,55 +297,6 @@
 
                     </ul>
                 </div>
-                <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
-                    <ul>
-                        <li class="cbp-item effect effects identity logo">
-                            <div class="img">
-                                <img src="img/portfolio/3.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-caption-title"></li>
-                                        <li class="cbp-l-caption-desc"></li>
-                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/3.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
-                    <ul>
-                        <li class="cbp-item effect effects identity logo">
-                            <div class="img">
-                                <img src="img/portfolio/4.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-caption-title"></li>
-                                        <li class="cbp-l-caption-desc"></li>
-                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/4.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
-                    <ul>
-                        <li class="cbp-item effect effects identity logo">
-                            <div class="img">
-                                <img src="img/portfolio/5.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-caption-title"></li>
-                                        <li class="cbp-l-caption-desc"></li>
-                                        <li class="cbp-l-icon"><a href="img/portfolio/fullsize/5.jpg" class="cbp-lightbox" data-title="2017 LEAD Project"><i class="icon-magnifier"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-
             </div>
         </section>
         <!-- End Portfolio Section -->
