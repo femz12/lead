@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About Us - LEAD Project | 2018</title>
+    <title>Vote - LEAD Project | 2018</title>
     <meta name="description" content="A Lead project by bullion"/>
     <meta name="keywords" content="About LEAD, "/>
     <meta name="author" content="Bullion Projects"/>
@@ -55,7 +55,7 @@
                 <ul class="nav navbar-nav  navbar-right">
 
                     <li class="to-section"><a href="/">Home</a></li>
-                    <li class="to-section"><a href="#">About Us</a></li>
+                    <li class="to-section"><a href="about.php">About Us</a></li>
                     <li class="to-section"><a href="index.php#speakers">Speakers</a></li>
                     <li class="to-section"><a href="gallery.php">Gallery</a></li>
 
@@ -75,7 +75,7 @@
 
                         </ul>
                     </li> -->
-                    <li class="to-section"><a href="vote.php">Vote</a></li>
+                    <li class="to-section"><a href="#">Vote</a></li>
                     <li class="to-section"><a href="index.php#contact">Contact Us</a></li>
                     <li><a class="social-icon" href="#"><i class="icon icon-social-twitter"></i></a></li>
                     <li><a class="social-icon" href="https://www.facebook.com/TheLEADProjectAfrica/"><i class="icon icon-social-facebook"></i></a></li>
