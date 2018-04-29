@@ -139,7 +139,7 @@
                     <div class="contact">
                         <h4>Visit us Today!</h4>
                         <ul class="contact-details">
-                            <li><p><i class="icon ion-ios-location-outline highlight"></i> 21, Ezekiel Street, Off Toyin, Ikeja</p></li>
+                            <!--<li><p><i class="icon ion-ios-location-outline highlight"></i> 21, Ezekiel Street, Off Toyin, Ikeja</p></li>-->
                             <li><p><i class="icon ion-ios-telephone highlight"></i>+2348170475049 or 08143497350</p></li>
                             <li><p><i class="icon ion-android-mail highlight"></i> <a href="leadbiginnovationfestival@gmail.com">leadbiginnovationfestival@gmail.com</a></p></li>
                         </ul>

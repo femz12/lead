@@ -1540,7 +1540,7 @@
                         <div class="col-md-12 text-center wow fadeInUp" style="margin-top:20px;">
                             <p>We would love to hear from you so let's get in touch!</p>
                             <h4>CONTACT US TODAY!</h4>
-                            <p>The Bullion Project.<br>21, Ezekiel Street, Off Toyin, Ikeja<br>Mobile: +2348170475049 or 08143497350<br>Email: leadbiginnovationfestival@gmail.com</p>
+                            <p>The Bullion Project.<!--<br>21, Ezekiel Street, Off Toyin, Ikeja--><br>Mobile: +2348170475049 or 08143497350<br>Email: leadbiginnovationfestival@gmail.com</p>
                         </div>
 
                     </div>

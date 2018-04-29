@@ -140,15 +140,15 @@
 
                             <div class="col-md-3 col-sm-6 col-footer">
                                 <h4>Projects</h4>
-                                <p>She has partnered in execution of mega TV projects like the Dialogue of Leaders TV series, The NET TITAN Reality TV series and pioneered world class events like PAN African Enterpreneurship summit, Nigerian Job Forum, Lead Africa, etc.</p>
+                                <p>She has partnered in execution of mega TV projects like the Dialogue of Leaders TV series and pioneered world class events like PAN African Enterpreneurship summit, Nigerian Job Forum, Lead Africa, etc.</p>
                             </div>
 
                         <div class="col-md-3 col-sm-6 col-footer">
                             <div class="contact">
                                 <h4>Visit us Today!</h4>
                                 <ul class="contact-details">
-                                    <li><p><i class="icon ion-ios-location-outline highlight"></i> 21, Ezekiel Street, Off Toyin, Ikeja</p></li>
-                                    <li><p><i class="icon ion-ios-telephone highlight"></i>+2348170475049 or 08143497350</p></li>
+                                    <!--<li><p><i class="icon ion-ios-location-outline highlight"></i> 21, Ezekiel Street, Off Toyin, Ikeja</p></li>-->
+                                    <li><p><i class="icon ion-ios-telephone highlight"></i>08170475049 or 08143497350</p></li>
                                     <li><p><i class="icon ion-android-mail highlight"></i> <a href="leadbiginnovationfestival@gmail.com">leadbiginnovationfestival@gmail.com</a></p></li>
                                 </ul>
                             </div>
