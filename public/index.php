@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>LEAD Project | 2018</title>
+        <title>The LEAD Project™ | 2018</title>
         <meta name="description" content="A Lead project by bullion"/>
         <meta name="keywords" content="Bullion, Lead Project, event"/>
         <meta name="author" content="Bullion Projects"/>
@@ -24,11 +24,11 @@
 	<body>
 
         <!-- Start Preloader -->
-        <div id="preloader">
+        <!--<div id="preloader">
             <div class="loader">
-                <img src="img/assets/spinner.gif" alt="LEAD Project">
+                <img src="img/assets/spinner.gif" alt="The LEAD Project">
             </div>
-        </div>
+        </div>-->
         <!-- End Preloader -->
 
         <!-- Start Header -->
@@ -44,9 +44,9 @@
 						<span class="icon-bar"></span>
 					    </button>
                         <a class="navbar-brand to-top" rel="home" href="#">
-                            <img src="img/assets/lead-logo.png" alt="LEAD Project" class="logo-big">
+                            <img src="img/assets/lead-logo.png" alt="The LEAD Project | 2017" class="logo-big">
                         	<!--<img src="img/assets/logo-white.png" alt="" class="logo-big">-->
-                            <img src="img/assets/lead-logo-black.png" alt="LEAD Project" class="logo-small">
+                            <img src="img/assets/lead-logo-black.png" alt="The LEAD Project | 2017" class="logo-small">
                         </a>
 					</div>
 
@@ -63,7 +63,6 @@
                                 <span class="dropdown-toggle" data-toggle="dropdown">Pages <b class="caret"></b></span>
                                 <ul class="dropdown-menu" role="menu">
                                     <li class="active"><a href="#">Something Here</a></li>
-
                                 </ul>
                             </li>
 
@@ -628,8 +627,7 @@
                         <p class="subheading">See <span class="highlight">who is speaking</span>.</p>
                     </div>
 
-                    <div class="row">
-
+                    <div class="row text-center">
                         <div class="col-md-3 col-sm-4 team-member">
                             <div class="effect effects wow fadeInUp">
                                 <div class="img">
@@ -647,9 +645,35 @@
                                 </div>
                             </div>
                             <div class="member-info wow fadeInUp">
-                                <h4>Ibukun Awosika</h4>
-                                <h5 class="highlight">Chairman, First Bank PLC.</h5>
-                                <!--<p>Description of speaker</p>-->
+                                <h4>Governor, Akinwunmi Ambode</h4>
+                                <h5 class="highlight">Executive Governor, Lagos State.</h5>
+                                <p>Chief Host</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-3 col-sm-4 team-member">
+                            <div class="effect effects wow fadeInUp">
+                                <div class="img">
+                                    <img src="img/speakers/6.jpg" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                                        </ul>
+                                        <a class="close-overlay hidden">x</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="member-info wow fadeInUp">
+                                <h4>Prof. Yemi Osibajo</h4>
+                                <h5 class="highlight">Vice President, Federal Republic of Nigeria.</h5>
+                                <p>Chairman of Event</p>
                             </div>
                         </div>
 
@@ -699,29 +723,6 @@
                             </div>
                         </div>
 
-                        <!--<div class="col-md-3 col-sm-4 team-member">
-                            <div class="effect effects wow fadeInUp">
-                                <div class="img">
-                                    <img src="img/speakers/4.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
-                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
-                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
-                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
-                                            <li class="social-icon"><a href="#" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
-                                        </ul>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="member-info wow fadeInUp">
-                                <h4>Kristo Asafo</h4>
-                                <h5 class="highlight">Ghanaian Car Manufacturer</h5>
-                                <!--<p>Minister in Nigeria will be here</p>--
-                            </div>
-                        </div>-->
-
                         <div class="col-md-3 col-sm-4 team-member">
                             <div class="effect effects wow fadeInUp">
                                 <div class="img">
@@ -741,6 +742,100 @@
                             <div class="member-info wow fadeInUp">
                                 <h4>Okechukwu Enelamah</h4>
                                 <h5 class="highlight">Hon. Minister for Industry, Trade and Investment</h5>
+                                <!--<p>Minister in Nigeria will be here</p>-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+
+                        <div class="col-md-3 col-sm-4 team-member">
+                            <div class="effect effects wow fadeInUp">
+                                <div class="img">
+                                    <img src="img/speakers/7.jpg" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                                        </ul>
+                                        <a class="close-overlay hidden">x</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="member-info wow fadeInUp">
+                                <h4>Folusho Philips</h4>
+                                <h5 class="highlight">Founder, Phillips Consulting</h5>
+                                <!--<p>Minister in Nigeria will be here</p>-->
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 col-sm-4 team-member">
+                            <div class="effect effects wow fadeInUp">
+                                <div class="img">
+                                    <img src="img/speakers/8.jpg" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                                        </ul>
+                                        <a class="close-overlay hidden">x</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="member-info wow fadeInUp">
+                                <h4>Dr. Bola Akindele</h4>
+                                <h5 class="highlight">GMD, Courteville Business Solutions Plc.</h5>
+                                <!--<p>Minister in Nigeria will be here</p>-->
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 col-sm-4 team-member">
+                            <div class="effect effects wow fadeInUp">
+                                <div class="img">
+                                    <img src="img/speakers/9.jpg" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                                        </ul>
+                                        <a class="close-overlay hidden">x</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="member-info wow fadeInUp">
+                                <h4>Mike Ogbalu</h4>
+                                <h5 class="highlight">CEO, Verve International</h5>
+                                <!--<p>Minister in Nigeria will be here</p>-->
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 col-sm-4 team-member">
+                            <div class="effect effects wow fadeInUp">
+                                <div class="img">
+                                    <img src="img/speakers/10.jpg" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
+                                            <li class="social-icon"><a href="#" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
+                                        </ul>
+                                        <a class="close-overlay hidden">x</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="member-info wow fadeInUp">
+                                <h4>Mrs Folorunsho Alakija</h4>
+                                <h5 class="highlight">Founder, Famfa Oil Limited</h5>
                                 <!--<p>Minister in Nigeria will be here</p>-->
                             </div>
                         </div>
@@ -881,8 +976,8 @@
                 <div class="container">
 
                     <div class="col-md-12 text-center">
-                        <h3 class="section-title wow fadeInUp">Greatest Works.</h3>
-                        <p class="subheading wow fadeInUp">Creating products and services that <span class="highlight">transform brands</span>.</p>
+                        <h6 class="section-title wow fadeInUp">Past LEAD Project Africa.</h6>
+                        <p class="subheading wow fadeInUp">Some of the past lead <span class="highlight">award images</span>.</p>
                     </div>
 
                     <div id="filters-container-fullwidth" class="cbp-l-filters-alignCenter wow fadeInUp">
