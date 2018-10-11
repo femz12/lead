@@ -645,8 +645,8 @@
                                 </div>
                             </div>
                             <div class="member-info wow fadeInUp">
-                                <h4>Governor, Akinwunmi Ambode</h4>
-                                <h5 class="highlight">Executive Governor, Lagos State.</h5>
+                                <h4>Asiwaju Bola Tinubu</h4>
+                                <h5 class="highlight">African Political Leader</h5>
                                 <p>Chief Host</p>
                             </div>
                         </div>
@@ -697,29 +697,6 @@
                                 <h4>Adenike Ogunlesi</h4>
                                 <h5 class="highlight">Founder, Ruff n Tumble</h5>
                                 <!--<p>Description of speaker</p>-->
-                            </div>
-                        </div>
-
-                        <div class="col-md-3 col-sm-4 team-member">
-                            <div class="effect effects wow fadeInUp">
-                                <div class="img">
-                                    <img src="img/speakers/3.jpg" class="img-responsive" alt="" />
-                                    <div class="overlay">
-                                        <ul class="expand">
-                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
-                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-twitter"></i></a></li>
-                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-youtube"></i></a></li>
-                                            <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-dribbble"></i></a></li>
-                                            <li class="social-icon"><a href="#" onClick="return false;"><i class=" icon-envelope-open"></i></a></li>
-                                        </ul>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="member-info wow fadeInUp">
-                                <h4>Hon. Adebayo shittu</h4>
-                                <h5 class="highlight">Minister of Communications, Sycophancy and Pomposity</h5>
-                                <!--<p>Minister in Nigeria will be here</p>-->
                             </div>
                         </div>
 
