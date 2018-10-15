@@ -20,6 +20,39 @@
         <!-- Skin Color -->
         <link rel="stylesheet" href="css/colors/red.css" id="color-skins"/>
 
+        <!--  Countdown Timer Script  -->
+
+        <script>
+            // Set the date we're counting down to
+            var countDownDate = new Date("Oct 25, 2018 10:00:00").getTime();
+
+            // Update the count down every 1 second
+            var x = setInterval(function() {
+
+                // Get todays date and time
+                var now = new Date().getTime();
+
+                // Find the distance between now and the count down date
+                var distance = countDownDate - now;
+
+                // Time calculations for days, hours, minutes and seconds
+                var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                // Display the result in the element with id="demo"
+                document.getElementById("demo").innerHTML = days + "days " + hours + "hours "
+                    + minutes + "minute " + seconds + "seconds ";
+
+                // If the count down is finished, write some text
+                if (distance < 0) {
+                    clearInterval(x);
+                    document.getElementById("demo").innerHTML = "EXPIRED";
+                }
+            }, 1000);
+        </script>
+
 	</head>
 	<body>
 
@@ -479,6 +512,15 @@
 
             <section id="features" class="parallax-section-5">
                 <div class="container">
+
+                    <!---   Count Down Timer HTML code-->
+                    <div class="row">
+                        <div class = "col-md-8 col-md-offset-2">
+                            <h3 class="text-center"> Count Down To Event</h3>
+                            <h3 class="wow fadeInUp text-center" id="demo">  </h3>
+                            <br>
+                        </div>
+                    </div>
                     <div class="row">
 
                         <div class="col-md-12 text-justify">
