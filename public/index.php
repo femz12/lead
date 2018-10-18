@@ -24,7 +24,7 @@
 
         <script>
             // Set the date we're counting down to
-            var countDownDate = new Date("Oct 25, 2018 10:00:00").getTime();
+            var countDownDate = new Date("Oct 21, 2018 10:00:00").getTime();
 
             // Update the count down every 1 second
             var x = setInterval(function() {
@@ -42,8 +42,12 @@
                 var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
                 // Display the result in the element with id="demo"
-                document.getElementById("demo").innerHTML = days + "days " + hours + "hours "
-                    + minutes + "minute " + seconds + "seconds ";
+                //document.getElementById("demo").innerHTML = days + "days " + hours + "hours "
+                  //  + minutes + "minute " + seconds + "seconds ";
+
+                document.getElementById("demo").innerHTML = days + "days " + hours + ": "
+                    + minutes + ": " + seconds + " ";
+
 
                 // If the count down is finished, write some text
                 if (distance < 0) {
@@ -107,7 +111,7 @@
 
                                 </ul>
                             </li> -->
-                            <li class="to-section"><a href="vote.php">Vote</a></li>
+                            
                             <li class="to-section"><a href="#contact">Contact Us</a></li>
                             <li><a class="social-icon" href="#"><i class="icon icon-social-twitter"></i></a></li>
                             <li><a class="social-icon" href="https://www.facebook.com/TheLEADProjectAfrica/"><i class="icon icon-social-facebook"></i></a></li>
@@ -491,12 +495,22 @@
 
                             </li>
 
+
+
                         </ul>
                         <div class="tp-bannertimer"></div>
                     </div>
 
                     <div class="home-bottom">
                         <div class="container text-center">
+                            <!--   display the timer  -->
+                            <div class="col-md-4"></div>
+                            <div class="col-md-4">
+                                <div class="home-counter" id="demo"></div> 
+                                <div class="next">to the event</div>
+                            </div>
+                            <div class="col-md-4"></div>
+                            
                             <div class="move bounce">
                                 <a href="#features" class="ion-ios-arrow-down btn-scroll"></a>
                             </div>
@@ -513,14 +527,7 @@
             <section id="features" class="parallax-section-5">
                 <div class="container">
 
-                    <!---   Count Down Timer HTML code-->
-                    <div class="row">
-                        <div class = "col-md-8 col-md-offset-2">
-                            <h3 class="text-center"> Count Down To Event</h3>
-                            <h3 class="wow fadeInUp text-center" id="demo">  </h3>
-                            <br>
-                        </div>
-                    </div>
+                   
                     <div class="row">
 
                         <div class="col-md-12 text-justify">
@@ -670,10 +677,11 @@
                     </div>
 
                     <div class="row text-center">
+                        <!--  Asiwaju BolaTinubu -->
                         <div class="col-md-3 col-sm-4 team-member">
                             <div class="effect effects wow fadeInUp">
                                 <div class="img">
-                                    <img src="img/speakers/1.jpg" class="img-responsive" alt="" />
+                                    <img src="img/speakers/1.PNG" class="img-responsive" alt="" />
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
@@ -692,11 +700,8 @@
                                 <p>Chief Host</p>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="row">
-
-                        <div class="col-md-3 col-sm-4 team-member">
+                         <div class="col-md-3 col-sm-4 team-member">
                             <div class="effect effects wow fadeInUp">
                                 <div class="img">
                                     <img src="img/speakers/6.jpg" class="img-responsive" alt="" />
@@ -714,15 +719,15 @@
                             </div>
                             <div class="member-info wow fadeInUp">
                                 <h4>Prof. Yemi Osibajo</h4>
-                                <h5 class="highlight">Vice President, Federal Republic of Nigeria.</h5>
+                                <h5 class="highlight">Vice President, Federal Republic of Nigeria</h5>
                                 <p>Chairman of Event</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3 col-sm-4 team-member">
+                         <div class="col-md-3 col-sm-4 team-member">
                             <div class="effect effects wow fadeInUp">
                                 <div class="img">
-                                    <img src="img/speakers/2.jpg" class="img-responsive" alt="" />
+                                    <img src="img/speakers/obasa.jpg" class="img-responsive" alt="" />
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
@@ -736,16 +741,16 @@
                                 </div>
                             </div>
                             <div class="member-info wow fadeInUp">
-                                <h4>Adenike Ogunlesi</h4>
-                                <h5 class="highlight">Founder, Ruff n Tumble</h5>
-                                <!--<p>Description of speaker</p>-->
+                                <h4>Hon. Mudashiru Obasa</h4>
+                                <h5 class="highlight">Lagos State House of Assembly</h5>
+                                <p>Chief Host</p>
                             </div>
                         </div>
 
-                        <div class="col-md-3 col-sm-4 team-member">
+                         <div class="col-md-3 col-sm-4 team-member">
                             <div class="effect effects wow fadeInUp">
                                 <div class="img">
-                                    <img src="img/speakers/5.jpg" class="img-responsive" alt="" />
+                                    <img src="img/speakers/bola.png" class="img-responsive" alt="" />
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
@@ -759,18 +764,22 @@
                                 </div>
                             </div>
                             <div class="member-info wow fadeInUp">
-                                <h4>Okechukwu Enelamah</h4>
-                                <h5 class="highlight">Hon. Minister for Industry, Trade and Investment</h5>
-                                <!--<p>Minister in Nigeria will be here</p>-->
+                                <h4>Dr Bola Akindele</h4>
+                                <h5 class="highlight">GMD, Courteville Group</h5>
+                                <p>Chief Host</p>
                             </div>
                         </div>
                     </div>
+
+
                     <div class="row">
-
+                          <div class="col-md-12 text-center wow fadeInUp">
+                        <h4 class="section-title">Panel List</h4>
+                        
                         <div class="col-md-3 col-sm-4 team-member">
                             <div class="effect effects wow fadeInUp">
                                 <div class="img">
-                                    <img src="img/speakers/7.jpg" class="img-responsive" alt="" />
+                                    <img src="img/speakers/akin.jpg" class="img-responsive" alt="" />
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
@@ -784,16 +793,17 @@
                                 </div>
                             </div>
                             <div class="member-info wow fadeInUp">
-                                <h4>Folusho Philips</h4>
-                                <h5 class="highlight">Founder, Phillips Consulting</h5>
-                                <!--<p>Minister in Nigeria will be here</p>-->
+                                <h4>Akin Oyebode</h4>
+                                <h5 class="highlight">Executive Secretary, Lagos State Employment Trust Fund.</h5>
+                                <p></p>
                             </div>
                         </div>
+
 
                         <div class="col-md-3 col-sm-4 team-member">
                             <div class="effect effects wow fadeInUp">
                                 <div class="img">
-                                    <img src="img/speakers/8.jpg" class="img-responsive" alt="" />
+                                    <img src="img/speakers/elemo.png" class="img-responsive" alt="" />
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
@@ -807,16 +817,17 @@
                                 </div>
                             </div>
                             <div class="member-info wow fadeInUp">
-                                <h4>Dr. Bola Akindele</h4>
-                                <h5 class="highlight">GMD, Courteville Business Solutions Plc.</h5>
-                                <!--<p>Minister in Nigeria will be here</p>-->
+                                <h4>Gloria Elemo</h4>
+                                <h5 class="highlight">DG, Federal Institute of Industrial Research.</h5>
+                                <p></p>
                             </div>
                         </div>
 
-                        <div class="col-md-3 col-sm-4 team-member">
+
+                          <div class="col-md-3 col-sm-4 team-member">
                             <div class="effect effects wow fadeInUp">
                                 <div class="img">
-                                    <img src="img/speakers/9.jpg" class="img-responsive" alt="" />
+                                    <img src="img/speakers/mike.png" class="img-responsive" alt="" />
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
@@ -831,15 +842,16 @@
                             </div>
                             <div class="member-info wow fadeInUp">
                                 <h4>Mike Ogbalu</h4>
-                                <h5 class="highlight">CEO, Verve International</h5>
-                                <!--<p>Minister in Nigeria will be here</p>-->
+                                <h5 class="highlight">CEO, Verve International.</h5>
+                                <p></p>
                             </div>
                         </div>
 
-                        <div class="col-md-3 col-sm-4 team-member">
+
+                         <div class="col-md-3 col-sm-4 team-member">
                             <div class="effect effects wow fadeInUp">
                                 <div class="img">
-                                    <img src="img/speakers/10.jpg" class="img-responsive" alt="" />
+                                    <img src="img/speakers/joda.png" class="img-responsive" alt="" />
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="social-icon"><a href="#" onClick="return false;"><i class="icon-social-facebook"></i></a></li>
@@ -853,13 +865,17 @@
                                 </div>
                             </div>
                             <div class="member-info wow fadeInUp">
-                                <h4>Mrs Folorunsho Alakija</h4>
-                                <h5 class="highlight">Founder, Famfa Oil Limited</h5>
-                                <!--<p>Minister in Nigeria will be here</p>-->
+                                <h4>Taiwo Joda</h4>
+                                <h5 class="highlight">CEO, Accion Microfinance Bank.</h5>
+                                <p></p>
                             </div>
                         </div>
 
+
                     </div>
+
+                   
+                  
                 </div>
             </section>
             <!-- End Speaker Section -->
@@ -1691,49 +1707,47 @@
 
             <!-- Start Footer 1 -->
             <footer id="footer">
-                <div class="footer-widgets">
-                    <div class="container">
-                            <!--
-                            <div class="col-md-3 col-sm-6 col-twitter">
-                                <h4>Latest Tweet</h4>
-                                <div class="tweet"></div>
-                            </div>
+                  <div class="footer-widgets">
+            <div class="container">
+                <!-- -->
 
-                            <div class="col-md-3 col-sm-6 col-footer">
-                                <div class="subscription">
-                                    <h4>Newsletter</h4>
-                                    <p>Subscribe to receive new ideas, inspiration and our weekly news!</p>
+                <div class="col-md-3 col-sm-6 col-footer">
+                    <h4>About Bullion</h4>
+                    <p>Bullion Projects, the official consultant is one of the West Africa’s Leaders in ideas, TV contents and media project development she consults for organisations and partners with governments on enterprise and development projects.</p>
+                </div>
 
-                                    <form action="php/subscribe-mailchimp.php" method="post" id="subscribe-form" role="form">
-                                        <div class="form-validation alert"></div>
-                                        <div class="form-group subscribe-form-input">
-                                            <input type="email" name="email" id="subscribe-form-email" class="footer-subscribe-input" placeholder="Your Email Address" autocomplete="off" />
-                                            <button class="subscribe-form-submit btn-primary-full" data-loading-text="Loading...">Subscribe</button>
-                                        </div>
-                                    </form>
+                <div class="col-md-3 col-sm-6 col-footer">
+                    <h4>Projects</h4>
+                    <p>She has partnered in execution of mega TV projects like the Dialogue of Leaders TV series, The NET TITAN Reality TV series and pioneered world class events like PAN African Enterpreneurship summit, Nigerian Job Forum, Lead Africa, etc.</p>
+                </div>
 
-                                </div>
-                            </div>
+                <div class="col-md-3 col-sm-6 col-footer">
+                    <div class="contact">
+                        <h4>Visit us Today!</h4>
+                        <ul class="contact-details">
+                            <li><p><i class="icon ion-ios-location-outline highlight"></i> Lagos Oriental Hotel, Lekki Road, Victoria Island, Lagos.</p></li>
 
-                            <div class="col-md-3 col-sm-6 col-footer">
-                                <div class="contact">
-                                    <h4>Visit us Today!</h4>
-                                    <ul class="contact-details">
-                                        <li><p><i class="icon ion-ios-location-outline highlight"></i> 259 W 95th St, New York, United States</p></li>
-                                        <li><p><i class="icon ion-ios-telephone highlight"></i> (123) 456-7891</p></li>
-                                        <li><p><i class="icon ion-android-mail highlight"></i> <a href="vossendesign@gmail.com">vossendesign@gmail.com</a></p></li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                            <div class="col-md-3 col-sm-6 col-footer">
-                                <h4>About Vossen</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in euismod nisi.</p>
-                                <p>Cras at ultrices erat, sed vulputate eros. Nunc at augue gravida est fermentum vulputate. Pellentesque et ipsum in dui malesuada tempus. Donec pellentesque.</p>
-                            </div>-->
-
+                            <li><p><i class="icon ion-ios-telephone highlight"></i>+2348170475049 or 08143497350</p></li>
+                            <li>
+                                <p><i class="icon ion-android-mail highlight"></i> 
+                                <a href="leadbiginnovationfestival@gmail.com">
+                                leadbiginnovationfestival@gmail.com
+                            </a></p>
+                        </li>
+                        
+                        </ul>
                     </div>
-                </div><!-- End Footer Widgets -->
+                </div>
+
+                <div class="col-md-3 col-sm-6 col-twitter">
+                    <img src="img/assets/lagos-logo.jpg" alt="LEAD Project" class="logo-big">
+                    <br><br>
+                    <img src="img/assets/bullion-logo.jpg" alt="LEAD Project" class="logo-big">
+
+                </div>
+
+            </div>
+        </div><!-- End Footer Widgets --><!-- End Footer Widgets -->
 
 				<div class="footer-copyright">
 					<div class="container">
@@ -1781,7 +1795,7 @@
         <script src="js/plugins/cubeportfolio.min.js"></script>
         <script src="js/plugins/owlcarousel.min.js"></script>
         <script src="js/plugins/tweetie.min.js"></script>
-        <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
         <script src="js/plugins/gmap3.min.js"></script>
         <script src="js/plugins/wow.min.js"></script>
         <script src="js/plugins/counterup.min.js"></script>

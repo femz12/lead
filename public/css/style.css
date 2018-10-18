@@ -452,6 +452,24 @@ p {
 		display: none;
 	}
 }
+.home-counter {
+	font-family: 'Montserrat',sans-serif;
+	font-size: 40px;
+	letter-spacing: 0px;
+	font-weight: 900;
+	color: #fff;
+	background-color: #ff0000;
+	z-index:999!important;
+	/*text-shadow: 3px 3px 3px #FFF; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+}
+
+.next{
+	color: #fff;
+	font-size: 25px;
+	font-weight: 800px;
+	font-family: 'Montserrat', sans-serif;
+}
+
 .home-subheading {
 	font-family: 'Montserrat',sans-serif;
 	font-size: 16px;
