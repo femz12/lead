@@ -24,7 +24,7 @@
 
         <script>
             // Set the date we're counting down to
-            var countDownDate = new Date("Oct 21, 2018 10:00:00").getTime();
+            var countDownDate = new Date("Oct 21, 2018 15:00:00").getTime();
 
             // Update the count down every 1 second
             var x = setInterval(function() {
@@ -44,8 +44,11 @@
                 // Display the result in the element with id="demo"
                 //document.getElementById("demo").innerHTML = days + "days " + hours + "hours "
                   //  + minutes + "minute " + seconds + "seconds ";
+                  hours = hours < 10 ? "0" + hours : hours;
+                    minutes = minutes < 10 ? "0" + minutes : minutes;
+                    seconds = seconds < 10 ? "0" + seconds : seconds;
 
-                document.getElementById("demo").innerHTML = days + "days " + hours + ": "
+                document.getElementById("demo").innerHTML = days + "Day(s) " + hours + ": "
                     + minutes + ": " + seconds + " ";
 
 
